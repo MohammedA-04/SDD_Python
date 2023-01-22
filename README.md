@@ -1,6 +1,4 @@
-README
-
-Info
+README INFO
 
 This is a repository created by Mohammed Ahmed 
 
@@ -11,7 +9,7 @@ In this module students will learn to code (programme) in Python and then in Jav
     - Each Week's Content
     - Any Home Project or Any Other Excercises 
     
- ~ Every Week - We are handed out questions and problems to fix. In each file i have provided i reached a solution and notes in comment section, Enjoy!
+ ~ Every Week - We are handed out questions and problems to fix. In each file that i have provided i've reached a solution and provided notes in comment section, Enjoy!
 
 // Note : That Week 6 is Guidance Week, So there is no file for that week as there was an exam //
 
